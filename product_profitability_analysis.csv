@@ -1,0 +1,5 @@
+product_name,unit_price,unit_variable_cost,units_sold,total_revenue,total_variable_cost,contribution_margin,cm_percentage,classification
+Enterprise Suite,1200,240,180,216000,43200,172800,80.0,Niche Opportunities
+Mid-Market Core,500,220,210,105000,46200,58800,56.0,Volume Drivers
+Specialized Add-on,400,80,35,14000,2800,11200,80.0,Niche Opportunities
+Starter Kit,80,75,620,49600,46500,3100,6.25,Volume Drivers
